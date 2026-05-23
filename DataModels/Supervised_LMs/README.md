@@ -6,20 +6,6 @@ La carpeta `Supervised_LMs` tiene como objetivo almacenar y organizar modelos de
 
 ---
 
-## Descripción General
-
-La carpeta `Supervised_LMs` contiene modelos entrenados mediante técnicas de aprendizaje supervisado, donde los algoritmos utilizan conjuntos de datos etiquetados para aprender patrones y realizar predicciones precisas.
-
-Estos modelos permiten automatizar procesos de análisis, clasificación y toma de decisiones dentro del sistema.
-
----
-
-## Descripción de Subcarpetas
-
-Actualmente esta carpeta se encuentra destinada al almacenamiento de modelos supervisados, configuraciones, entrenamientos y recursos relacionados con algoritmos de aprendizaje automático.
-
----
-
 ## Árbol de la Carpeta
 
 ```text
