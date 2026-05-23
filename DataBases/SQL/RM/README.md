@@ -17,7 +17,7 @@ RM/
 
 | 👨‍💻 Integrante | 🔗 GitHub | 🛠️ Rol | 📝 Observaciones | Aprobado |
 |----------------|-----------|---------|------------------|----------|
-| **Carlos Daniel Garcia Pluma** | [@DanielGarciaPluma](https://github.com/DanielGarciaPluma) | Documentador | Sin observaciones | ✅ |
-| **Brisa Nallely Garcia Gregorio** | [@Brisgregorio](https://github.com/Brisgregorio) | Desarrollador | Sin observaciones | ✅ |
+| **Carlos Daniel Garcia Pluma** | [@DanielGarciaPluma](https://github.com/DanielGarciaPluma) | Documentador | Sin observaciones | Aprovado ✅ |
+| **Brisa Nallely Garcia Gregorio** | [@Brisgregorio](https://github.com/Brisgregorio) | Desarrollador | Sin observaciones | Aprobado ✅ |
 
 ---
