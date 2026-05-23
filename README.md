@@ -1,4 +1,145 @@
-# PC-Hospital-UDN-HR
+
+## Plataforma Administrativa Hospitalaria
+
+### Presentacion del Equipo
+El Equipo HR es el encargado de disenar y estructurar los cimientos del modulo de Recursos Humanos del hospital.
+
+Nuestro compromiso es garantizar un control preciso del personal, sus asignaciones, horarios y estructura organizacional, asegurando una gestion eficiente del capital humano que hace posible la atencion medica.
+
+### Equipo HR - Recursos Humanos
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><b>Logo de Proyecto</b></td>
+    <td align="center"><b>Logo de Empresa</b></td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <img 
+        src="/images/RH.png"
+        width="350"
+        height="350"
+        style="object-fit: contain; padding: 10px;"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img 
+        src="/images/Druxmyna.jpeg"
+        width="350"
+        height="350"
+        style="object-fit: contain; padding: 10px;"
+      />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
-Creacion de la rama Brisa_dev
+### Objetivo General
+Disenar y estructurar la base de datos del modulo de Recursos Humanos dentro de la plataforma administrativa hospitalaria, con el fin de centralizar, organizar y gestionar de manera eficiente la informacion del personal, sus asignaciones, horarios y estructura organizacional, permitiendo una administracion confiable, escalable e integrada con los demas modulos del sistema hospitalario.
+
+### Problematica
+La gestion del personal hospitalario se realiza de forma dispersa y manual, lo que provoca duplicidad de datos, dificultad para controlar horarios, personal y asignaciones, y falta de una estructura organizacional centralizada que apoye la toma de decisiones.
+
+### Propuesta
+Desarrollar dentro de la plataforma administrativa hospitalaria la gestion de la informacion del personal en una base de datos estructurada, permitiendo abarcar departamentos, horarios, personas, personas fisicas, personal, personal medico, medios de contacto y asignaciones de manera integrada. La solucion busca automatizar procesos, reducir errores administrativos y facilitar la consulta y actualizacion de datos en tiempo real para mejorar la organizacion y eficiencia del hospital.
+
+### Integrantes
+- Brisa Nallely Garcia Gregorio | 230362
+- Carlos Daniel Garcia Pluma | 230187
+
+## Descripcion de esta carpeta
+
+- Ruta relativa: .
+- Descripcion: Repositorio principal del modulo de Recursos Humanos.
+
+## Descripcion de subcarpetas
+
+- DataBases/: Diseno y artefactos de base de datos
+- DataModels/: Modelos de analitica y aprendizaje
+- Deliverables/: Entregables funcionales y tecnicos
+- Docs/: Documentacion de requerimientos e interfaces
+
+## Arbol de la carpeta
+
+```text
+PC-Hospital-UDN-RecursosHumanos/
+|-- DataBases/
+|   |
+|   |-- NoSQL/
+|   |   |
+|   |   |-- Backups/
+|   |   |-- DD/
+|   |   |-- Schemas/
+|   |   |
+|   |-- SQL/
+|   |   |
+|   |   |-- Backups/
+|   |   |-- DD/
+|   |   |-- ERD/
+|   |   |-- RM/
+|
+|-- DataModels/
+|   |
+|   |-- Supervised_LMs/
+|   |-- Unsupervised_LMs/
+|
+|-- Deliverables/
+|   |
+|   |-- API/
+|   |   |
+|   |   |-- build/
+|   |   |-- DeployManual/
+|   |   |-- source/
+|   |
+|   |-- WearableApp/
+|   |   |
+|   |   |-- build/
+|   |   |-- DeployManual/
+|   |   |
+|   |   |-- source/
+|   |   |   |
+|   |   |   |-- backend/
+|   |   |   |-- frontend/
+|   |   |
+|   |   |-- UserManual/
+|   |
+|   |-- WebApp/
+|   |   |
+|   |   |-- DeployManual/
+|   |   |
+|   |   |-- source/
+|   |   |   |
+|   |   |   |-- backend/
+|   |   |   |-- frontend/
+|   |   |
+|   |   |-- UserManual/
+|
+|-- Docs/
+|   |
+|   |-- BRs/
+|   |-- FRs/
+|   |
+|   |-- GUIs/
+|   |   |
+|   |   |-- WearableApp/
+|   |   |-- WebApp/
+|   |
+|   |-- NFRs/
+|   |-- UHS/
+|   |-- URs/
+|   
+`-- README.md
+```
+# 👥 Equipo de Desarrollo
+
+| 👨‍💻 Integrante | 🔗 GitHub | 🛠️ Rol | 📝 Observaciones | Aprobado |
+|----------------|-----------|---------|------------------|
+| **Carlos Daniel Garcia Pluma** | [@DanielGarciaPluma](https://github.com/DanielGarciaPluma) | Documentador | Sin observaciones | ✅ |
+| **Brisa Nallely Garcia Gregorio** | [@Brisgregorio](https://github.com/Brisgregorio) | Desarrollador  | Sin observaciones | ✅ |
+
+---
