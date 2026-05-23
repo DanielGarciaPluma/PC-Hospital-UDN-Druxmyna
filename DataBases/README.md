@@ -1,19 +1,38 @@
+# DataBases
+
 ## Objetivo de la Carpeta
 
-La carpeta `SQL` tiene como objetivo almacenar y organizar los recursos relacionados con bases de datos relacionales utilizadas dentro del proyecto, incluyendo respaldos, diccionario de datos, diagramas entidad-relación y modelos relacionales necesarios para la gestión estructurada de la información.
+La carpeta `DataBases` tiene como objetivo centralizar y organizar todos los recursos relacionados con la gestión de bases de datos del proyecto, incluyendo bases de datos relacionales y no relacionales, su documentación técnica, respaldos, modelos estructurales y esquemas necesarios para el almacenamiento y administración de la información.
 
 ---
 
 ## Árbol de la Carpeta
 
 ```text
-SQL/
-├── Backups/
-├── DD/
-├── ERD/
-├── RM/
+DataBases/
+├── NoSQL/
+│   ├── Backups/
+│   ├── DD/
+│   ├── Schemas/
+│   └── README.md
+├── SQL/
+│   ├── Backups/
+│   ├── DD/
+│   ├── ERD/
+│   ├── RM/
+│   └── README.md
 └── README.md
 ```
+
+---
+
+## Estructura de Subcarpetas
+
+### `NoSQL/`
+Contiene los recursos relacionados con bases de datos no relacionales, incluyendo respaldos, esquemas y documentación técnica para la administración de colecciones y estructuras flexibles de datos.
+
+### `SQL/`
+Almacena los recursos correspondientes a bases de datos relacionales, incluyendo respaldos, diccionario de datos, diagramas entidad-relación y modelo relacional.
 
 ---
 
