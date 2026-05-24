@@ -73,72 +73,139 @@ PC-Hospital-UDN-RecursosHumanos/
 |   |-- NoSQL/
 |   |   |
 |   |   |-- Backups/
-|   |   |-- DD/
-|   |   |-- Schemas/
+|   |   |   `-- README.md
 |   |   |
+|   |   |-- DD/
+|   |   |   `-- README.md
+|   |   |
+|   |   |-- Schemas/
+|   |   |   `-- README.md
+|   |   |
+|   |   `-- README.md
+|   |
 |   |-- SQL/
 |   |   |
 |   |   |-- Backups/
+|   |   |   `-- README.md
+|   |   |
 |   |   |-- DD/
+|   |   |   `-- README.md
+|   |   |
 |   |   |-- ERD/
+|   |   |   `-- README.md
+|   |   |
 |   |   |-- RM/
+|   |   |   `-- README.md
+|   |   |
+|   |   `-- README.md
+|   |
+|   `-- README.md
 |
 |-- DataModels/
 |   |
 |   |-- Supervised_LMs/
+|   |   `-- README.md
+|   |
 |   |-- Unsupervised_LMs/
+|   |   `-- README.md
+|   |
+|   `-- README.md
 |
 |-- Deliverables/
 |   |
 |   |-- API/
 |   |   |
 |   |   |-- build/
+|   |   |   `-- README.md
+|   |   |
 |   |   |-- DeployManual/
+|   |   |   `-- README.md
+|   |   |
 |   |   |-- source/
+|   |   |   `-- README.md
+|   |   |
+|   |   `-- README.md
 |   |
 |   |-- WearableApp/
 |   |   |
 |   |   |-- build/
+|   |   |   `-- README.md
+|   |   |
 |   |   |-- DeployManual/
+|   |   |   `-- README.md
 |   |   |
 |   |   |-- source/
 |   |   |   |
 |   |   |   |-- backend/
+|   |   |   |   `-- README.md
+|   |   |   |
 |   |   |   |-- frontend/
+|   |   |   |   `-- README.md
+|   |   |   |
+|   |   |   `-- README.md
 |   |   |
 |   |   |-- UserManual/
+|   |   |   `-- README.md
+|   |   |
+|   |   `-- README.md
 |   |
 |   |-- WebApp/
 |   |   |
 |   |   |-- DeployManual/
+|   |   |   `-- README.md
 |   |   |
 |   |   |-- source/
 |   |   |   |
 |   |   |   |-- backend/
+|   |   |   |   `-- README.md
+|   |   |   |
 |   |   |   |-- frontend/
+|   |   |   |   `-- README.md
+|   |   |   |
+|   |   |   `-- README.md
 |   |   |
 |   |   |-- UserManual/
+|   |   |   `-- README.md
+|   |   |
+|   |   `-- README.md
+|   |
+|   `-- README.md
 |
 |-- Docs/
 |   |
 |   |-- BRs/
+|   |   `-- README.md
+|   |
 |   |-- FRs/
+|   |   `-- README.md
 |   |
 |   |-- GUIs/
 |   |   |
 |   |   |-- WearableApp/
+|   |   |   `-- README.md
+|   |   |
 |   |   |-- WebApp/
+|   |   |   `-- README.md
+|   |   |
+|   |   `-- README.md
 |   |
 |   |-- NFRs/
+|   |   `-- README.md
+|   |
 |   |-- UHS/
+|   |   `-- README.md
+|   |
 |   |-- URs/
-|   
+|   |   `-- README.md
+|   |
+|   `-- README.md
+|
 `-- README.md
 ```
 # 👥 Equipo de Desarrollo
 
 | 👨‍💻 Integrante | 🔗 GitHub | 🛠️ Rol | 📝 Observaciones | Aprobado |
-|----------------|-----------|---------|------------------|
+|----------------|-----------|---------|------------------|------------------|
 | **Carlos Daniel Garcia Pluma** | [@DanielGarciaPluma](https://github.com/DanielGarciaPluma) | Documentador | Sin observaciones | Aprobado ✅ |
 | **Brisa Nallely Garcia Gregorio** | [@Brisgregorio](https://github.com/Brisgregorio) | Desarrollador  | Sin observaciones | Aprobado ✅ |
 
