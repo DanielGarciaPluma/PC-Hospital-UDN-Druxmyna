@@ -7,7 +7,7 @@ La carpeta `WearableApp` tiene como objetivo almacenar y organizar los diseños,
 ## Árbol de la Carpeta
 
 ```text
-WearableApp/
+⌚ WearableApp
 └── README.md
 ```
 

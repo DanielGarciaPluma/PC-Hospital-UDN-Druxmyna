@@ -7,7 +7,7 @@ La carpeta `DeployManual` tiene como objetivo almacenar y organizar la documenta
 ## Árbol de la Carpeta
 
 ```text
-DeployManual/
+📘 DeployManual
 └── README.md
 ```
 

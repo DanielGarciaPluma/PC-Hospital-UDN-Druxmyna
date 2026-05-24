@@ -9,13 +9,33 @@ La carpeta `Docs` tiene como objetivo centralizar y organizar toda la documentac
 ## Árbol de la Carpeta
 
 ```text
-Docs/
-├── BRs/
-├── FRs/
-├── GUIs/
-├── NFRs/
-├── UHs/
-├── URs/
+📚 Docs
+│
+├── 📝 BRs
+│   └── README.md
+│
+├── 📋 FRs
+│   └── README.md
+│
+├── 🎨 GUIs
+│   │
+│   ├── ⌚ WearableApp
+│   │   └── README.md
+│   │
+│   ├── 🌐 WebApp
+│   │   └── README.md
+│   │
+│   └── README.md
+│
+├── 🔒 NFRs
+│   └── README.md
+│
+├── 👥 UHS
+│   └── README.md
+│
+├── 📄 URs
+│   └── README.md
+│
 └── README.md
 ```
 

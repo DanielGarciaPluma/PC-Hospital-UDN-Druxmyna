@@ -7,7 +7,7 @@ La carpeta `backend` tiene como objetivo almacenar y organizar la lógica del la
 ## Árbol de la Carpeta
 
 ```text
-backend/
+🛠️ backend
 └── README.md
 ```
 

@@ -7,7 +7,7 @@ La carpeta `DD` tiene como objetivo almacenar y organizar el diccionario de dato
 ## Árbol de la Carpeta
 
 ```text
-DD/
+📑 DD
 └── README.md
 ```
 

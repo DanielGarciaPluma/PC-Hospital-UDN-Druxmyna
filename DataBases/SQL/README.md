@@ -7,11 +7,20 @@ La carpeta `SQL` tiene como objetivo almacenar y organizar los recursos relacion
 ## Árbol de la Carpeta
 
 ```text
-SQL/
-├── Backups/
-├── DD/
-├── ERD/
-├── RM/
+🗃️ SQL
+│
+├── 💾 Backups
+│   └── README.md
+│
+├── 📑 DD
+│   └── README.md
+│
+├── 📊 ERD
+│   └── README.md
+│
+├── 🧠 RM
+│   └── README.md
+│
 └── README.md
 ```
 

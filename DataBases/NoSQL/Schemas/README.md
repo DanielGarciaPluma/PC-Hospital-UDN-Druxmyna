@@ -7,7 +7,7 @@ La carpeta `Schemas` tiene como objetivo almacenar y organizar los esquemas de l
 ## Árbol de la Carpeta
 
 ```text
-Schemas/
+🧩 Schemas
 └── README.md
 ```
 

@@ -7,7 +7,7 @@ La carpeta `UHs` tiene como objetivo almacenar y organizar las historias de usua
 ## Árbol de la Carpeta
 
 ```text
-UHs/
+👥 UHS
 └── README.md
 ```
 
