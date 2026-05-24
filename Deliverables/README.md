@@ -7,23 +7,65 @@ La carpeta `Deliverables` tiene como objetivo almacenar y organizar todos los en
 ## Árbol de la Carpeta
 
 ```text
-Deliverables/
-├── API/
-│   ├── build/
-│   ├── DeployManual/
-│   ├── source/
-│   └── README.md
-├── Wearables/
-│   ├── build/
-│   ├── DeployManual/
-│   ├── source/
-│   │   ├── backend/
-│   │   ├── frontend/
+📦 Deliverables
+│
+├── 🔌 API
+│   │
+│   ├── ⚙️ build
 │   │   └── README.md
-│   ├── UserManual/
+│   │
+│   ├── 📘 DeployManual
+│   │   └── README.md
+│   │
+│   ├── 💻 source
+│   │   └── README.md
+│   │
 │   └── README.md
-└── WebApp/
-    └── README.md
+│
+├── ⌚ WearableApp
+│   │
+│   ├── ⚙️ build
+│   │   └── README.md
+│   │
+│   ├── 📘 DeployManual
+│   │   └── README.md
+│   │
+│   ├── 💻 source
+│   │   │
+│   │   ├── 🛠️ backend
+│   │   │   └── README.md
+│   │   │
+│   │   ├── 🎨 frontend
+│   │   │   └── README.md
+│   │   │
+│   │   └── README.md
+│   │
+│   ├── 👤 UserManual
+│   │   └── README.md
+│   │
+│   └── README.md
+│
+├── 🌐 WebApp
+│   │
+│   ├── 📘 DeployManual
+│   │   └── README.md
+│   │
+│   ├── 💻 source
+│   │   │
+│   │   ├── 🛠️ backend
+│   │   │   └── README.md
+│   │   │
+│   │   ├── 🎨 frontend
+│   │   │   └── README.md
+│   │   │
+│   │   └── README.md
+│   │
+│   ├── 👤 UserManual
+│   │   └── README.md
+│   │
+│   └── README.md
+│
+└── README.md
 ```
 
 ---

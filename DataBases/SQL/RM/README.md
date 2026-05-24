@@ -7,7 +7,7 @@ La carpeta `RM` tiene como objetivo almacenar y organizar los modelos relacional
 ## Árbol de la Carpeta
 
 ```text
-RM/
+🧠 RM
 └── README.md
 ```
 

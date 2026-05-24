@@ -7,8 +7,8 @@ La carpeta `Build` tiene como objetivo almacenar y organizar los archivos genera
 ## Árbol de la Carpeta
 
 ```text
-Build/
-`-- README.md
+⚙️ build
+└── README.md
 ```
 
 ---

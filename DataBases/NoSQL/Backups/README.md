@@ -7,7 +7,7 @@ La carpeta `Backups` tiene como objetivo almacenar y organizar los respaldos de 
 ## Árbol de la Carpeta
 
 ```text
-Backups/
+💾 Backups
 └── README.md
 ```
 

@@ -7,7 +7,7 @@ La carpeta `ERD` tiene como objetivo almacenar y organizar los diagramas entidad
 ## Árbol de la Carpeta
 
 ```text
-ERD/
+📊 ERD
 └── README.md
 ```
 

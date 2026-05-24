@@ -7,7 +7,7 @@ La carpeta `FRs` tiene como objetivo almacenar y organizar los requerimientos fu
 ## Árbol de la Carpeta
 
 ```text
-FRs/
+📋 FRs
 └── README.md
 ```
 

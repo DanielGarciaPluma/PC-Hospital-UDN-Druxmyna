@@ -9,9 +9,14 @@ La carpeta `GUIs` tiene como objetivo almacenar y organizar los diseños de inte
 ## Árbol de la Carpeta
 
 ```text
-GUIs/
-├── WearableApp/
-├── WebApp/
+🎨 GUIs
+│
+├── ⌚ WearableApp
+│   └── README.md
+│
+├── 🌐 WebApp
+│   └── README.md
+│
 └── README.md
 ```
 

@@ -7,7 +7,7 @@ La carpeta `UserManual` tiene como objetivo almacenar y organizar la documentaci
 ## Árbol de la Carpeta
 
 ```text
-UserManual/
+👤 UserManual
 └── README.md
 ```
 

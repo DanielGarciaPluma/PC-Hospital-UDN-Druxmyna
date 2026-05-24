@@ -7,11 +7,14 @@ La carpeta `source` tiene como objetivo almacenar y organizar el código fuente 
 ## Árbol de la Carpeta
 
 ```text
-source/
-├── backend/
+💻 source
+│
+├── 🛠️ backend
 │   └── README.md
-├── frontend/
+│
+├── 🎨 frontend
 │   └── README.md
+│
 └── README.md
 ```
 

@@ -7,7 +7,7 @@ La carpeta `WebApp` tiene como objetivo almacenar y organizar los diseños, prot
 ## Árbol de la Carpeta
 
 ```text
-WebApp/
+🌐 WebApp
 └── README.md
 ```
 

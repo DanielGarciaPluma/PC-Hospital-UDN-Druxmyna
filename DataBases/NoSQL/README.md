@@ -7,10 +7,17 @@ La carpeta `NoSQL` tiene como objetivo almacenar y organizar los recursos relaci
 ## Árbol de la Carpeta
 
 ```text
-NoSQL/
-├── Backups/
-├── DD/
-├── Schemas/
+📂 NoSQL
+│
+├── 💾 Backups
+│   └── README.md
+│
+├── 📑 DD
+│   └── README.md
+│
+├── 🧩 Schemas
+│   └── README.md
+│
 └── README.md
 ```
 

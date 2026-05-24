@@ -7,14 +7,25 @@ La carpeta `WebApp` tiene como objetivo almacenar y organizar todos los recursos
 ## Árbol de la Carpeta
 
 ```text
-WebApp/
-│       ├── DeployManual/
-│       ├── source/
-│       │   ├── backend/
-│       │   ├── frontend/
-│       │   └── README.md
-│       ├── UserManual/
-│       └── README.md
+🌐 WebApp
+│
+├── 📘 DeployManual
+│   └── README.md
+│
+├── 💻 source
+│   │
+│   ├── 🛠️ backend
+│   │   └── README.md
+│   │
+│   ├── 🎨 frontend
+│   │   └── README.md
+│   │
+│   └── README.md
+│
+├── 👤 UserManual
+│   └── README.md
+│
+└── README.md
 ```
 
 ---

@@ -7,7 +7,7 @@ La carpeta `BRs` tiene como objetivo almacenar y organizar las reglas de negocio
 ## Árbol de la Carpeta
 
 ```text
-BRs/
+📝 BRs
 └── README.md
 ```
 

@@ -7,7 +7,7 @@ La carpeta `frontend` tiene como objetivo almacenar y organizar los componentes 
 ## Árbol de la Carpeta
 
 ```text
-frontend/
+🎨 frontend
 └── README.md
 ```
 

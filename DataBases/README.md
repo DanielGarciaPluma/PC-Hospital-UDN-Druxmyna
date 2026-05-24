@@ -9,18 +9,37 @@ La carpeta `DataBases` tiene como objetivo centralizar y organizar todos los rec
 ## Árbol de la Carpeta
 
 ```text
-DataBases/
-├── NoSQL/
-│   ├── Backups/
-│   ├── DD/
-│   ├── Schemas/
+🗄️ DataBases
+│
+├── 📂 NoSQL
+│   │
+│   ├── 💾 Backups
+│   │   └── README.md
+│   │
+│   ├── 📑 DD
+│   │   └── README.md
+│   │
+│   ├── 🧩 Schemas
+│   │   └── README.md
+│   │
 │   └── README.md
-├── SQL/
-│   ├── Backups/
-│   ├── DD/
-│   ├── ERD/
-│   ├── RM/
+│
+├── 🗃️ SQL
+│   │
+│   ├── 💾 Backups
+│   │   └── README.md
+│   │
+│   ├── 📑 DD
+│   │   └── README.md
+│   │
+│   ├── 📊 ERD
+│   │   └── README.md
+│   │
+│   ├── 🧠 RM
+│   │   └── README.md
+│   │
 │   └── README.md
+│
 └── README.md
 ```
 

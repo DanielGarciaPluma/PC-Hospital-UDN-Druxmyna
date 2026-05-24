@@ -7,8 +7,18 @@ La carpeta `API` tiene como objetivo almacenar y organizar los componentes encar
 ## Árbol de la Carpeta
 
 ```text
-API/
-`-- README.md
+🔌 API
+│
+├── ⚙️ build
+│   └── README.md
+│
+├── 📘 DeployManual
+│   └── README.md
+│
+├── 💻 source
+│   └── README.md
+│
+└── README.md
 ```
 
 ---

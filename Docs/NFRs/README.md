@@ -7,7 +7,7 @@ La carpeta `NFRs` tiene como objetivo almacenar y organizar los requerimientos n
 ## Árbol de la Carpeta
 
 ```text
-NFRs/
+🔒 NFRs
 └── README.md
 ```
 

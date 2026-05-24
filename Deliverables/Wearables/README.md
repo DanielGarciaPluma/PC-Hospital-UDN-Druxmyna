@@ -7,15 +7,28 @@ La carpeta `Wearables` tiene como objetivo almacenar y organizar los archivos de
 ## Árbol de la Carpeta
 
 ```text
-Wearables/
-│       ├── build/
-│       ├── DeployManual/
-│       ├── source/
-│       │   ├── backend/
-│       │   ├── frontend/
-│       │   └── README.md
-│       ├── UserManual/
-│       └── README.md
+⌚ WearableApp
+│
+├── ⚙️ build
+│   └── README.md
+│
+├── 📘 DeployManual
+│   └── README.md
+│
+├── 💻 source
+│   │
+│   ├── 🛠️ backend
+│   │   └── README.md
+│   │
+│   ├── 🎨 frontend
+│   │   └── README.md
+│   │
+│   └── README.md
+│
+├── 👤 UserManual
+│   └── README.md
+│
+└── README.md
 ```
 
 ---

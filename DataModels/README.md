@@ -19,14 +19,16 @@ Incluye modelos no supervisados enfocados en descubrir patrones, agrupaciones y 
 ## Árbol de la Carpeta
 
 ```text
-DataModels/
-|-- Supervised_LMs/
-|   `-- README.md
-|
-|-- Unsupervised_LMs/
-|   `-- README.md
-|
-`-- README.md
+🤖 DataModels
+│
+├── 📘 Supervised_LMs
+│   └── README.md
+│
+├── 📗 Unsupervised_LMs
+│   └── README.md
+│
+└── README.md
+```
 
 # 👥 Equipo de Desarrollo
 
