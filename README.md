@@ -67,141 +67,143 @@ Desarrollar dentro de la plataforma administrativa hospitalaria la gestion de la
 ## Arbol de la carpeta
 
 ```text
-PC-Hospital-UDN-RecursosHumanos/
-|-- DataBases/
-|   |
-|   |-- NoSQL/
-|   |   |
-|   |   |-- Backups/
-|   |   |   `-- README.md
-|   |   |
-|   |   |-- DD/
-|   |   |   `-- README.md
-|   |   |
-|   |   |-- Schemas/
-|   |   |   `-- README.md
-|   |   |
-|   |   `-- README.md
-|   |
-|   |-- SQL/
-|   |   |
-|   |   |-- Backups/
-|   |   |   `-- README.md
-|   |   |
-|   |   |-- DD/
-|   |   |   `-- README.md
-|   |   |
-|   |   |-- ERD/
-|   |   |   `-- README.md
-|   |   |
-|   |   |-- RM/
-|   |   |   `-- README.md
-|   |   |
-|   |   `-- README.md
-|   |
-|   `-- README.md
-|
-|-- DataModels/
-|   |
-|   |-- Supervised_LMs/
-|   |   `-- README.md
-|   |
-|   |-- Unsupervised_LMs/
-|   |   `-- README.md
-|   |
-|   `-- README.md
-|
-|-- Deliverables/
-|   |
-|   |-- API/
-|   |   |
-|   |   |-- build/
-|   |   |   `-- README.md
-|   |   |
-|   |   |-- DeployManual/
-|   |   |   `-- README.md
-|   |   |
-|   |   |-- source/
-|   |   |   `-- README.md
-|   |   |
-|   |   `-- README.md
-|   |
-|   |-- WearableApp/
-|   |   |
-|   |   |-- build/
-|   |   |   `-- README.md
-|   |   |
-|   |   |-- DeployManual/
-|   |   |   `-- README.md
-|   |   |
-|   |   |-- source/
-|   |   |   |
-|   |   |   |-- backend/
-|   |   |   |   `-- README.md
-|   |   |   |
-|   |   |   |-- frontend/
-|   |   |   |   `-- README.md
-|   |   |   |
-|   |   |   `-- README.md
-|   |   |
-|   |   |-- UserManual/
-|   |   |   `-- README.md
-|   |   |
-|   |   `-- README.md
-|   |
-|   |-- WebApp/
-|   |   |
-|   |   |-- DeployManual/
-|   |   |   `-- README.md
-|   |   |
-|   |   |-- source/
-|   |   |   |
-|   |   |   |-- backend/
-|   |   |   |   `-- README.md
-|   |   |   |
-|   |   |   |-- frontend/
-|   |   |   |   `-- README.md
-|   |   |   |
-|   |   |   `-- README.md
-|   |   |
-|   |   |-- UserManual/
-|   |   |   `-- README.md
-|   |   |
-|   |   `-- README.md
-|   |
-|   `-- README.md
-|
-|-- Docs/
-|   |
-|   |-- BRs/
-|   |   `-- README.md
-|   |
-|   |-- FRs/
-|   |   `-- README.md
-|   |
-|   |-- GUIs/
-|   |   |
-|   |   |-- WearableApp/
-|   |   |   `-- README.md
-|   |   |
-|   |   |-- WebApp/
-|   |   |   `-- README.md
-|   |   |
-|   |   `-- README.md
-|   |
-|   |-- NFRs/
-|   |   `-- README.md
-|   |
-|   |-- UHS/
-|   |   `-- README.md
-|   |
-|   |-- URs/
-|   |   `-- README.md
-|   |
-|   `-- README.md
-|
-`-- README.md
+📦 PC-Hospital-UDN-RecursosHumanos
+│
+├── 🗄️ DataBases
+│   │
+│   ├── 📂 NoSQL
+│   │   │
+│   │   ├── 💾 Backups
+│   │   │   └── README.md
+│   │   │
+│   │   ├── 📑 DD
+│   │   │   └── README.md
+│   │   │
+│   │   ├── 🧩 Schemas
+│   │   │   └── README.md
+│   │   │
+│   │   └── README.md
+│   │
+│   ├── 🗃️ SQL
+│   │   │
+│   │   ├── 💾 Backups
+│   │   │   └── README.md
+│   │   │
+│   │   ├── 📑 DD
+│   │   │   └── README.md
+│   │   │
+│   │   ├── 📊 ERD
+│   │   │   └── README.md
+│   │   │
+│   │   ├── 🧠 RM
+│   │   │   └── README.md
+│   │   │
+│   │   └── README.md
+│   │
+│   └── README.md
+│
+├── 🤖 DataModels
+│   │
+│   ├── 📘 Supervised_LMs
+│   │   └── README.md
+│   │
+│   ├── 📗 Unsupervised_LMs
+│   │   └── README.md
+│   │
+│   └── README.md
+│
+├── 📦 Deliverables
+│   │
+│   ├── 🔌 API
+│   │   │
+│   │   ├── ⚙️ build
+│   │   │   └── README.md
+│   │   │
+│   │   ├── 📘 DeployManual
+│   │   │   └── README.md
+│   │   │
+│   │   ├── 💻 source
+│   │   │   └── README.md
+│   │   │
+│   │   └── README.md
+│   │
+│   ├── ⌚ WearableApp
+│   │   │
+│   │   ├── ⚙️ build
+│   │   │   └── README.md
+│   │   │
+│   │   ├── 📘 DeployManual
+│   │   │   └── README.md
+│   │   │
+│   │   ├── 💻 source
+│   │   │   │
+│   │   │   ├── 🛠️ backend
+│   │   │   │   └── README.md
+│   │   │   │
+│   │   │   ├── 🎨 frontend
+│   │   │   │   └── README.md
+│   │   │   │
+│   │   │   └── README.md
+│   │   │
+│   │   ├── 👤 UserManual
+│   │   │   └── README.md
+│   │   │
+│   │   └── README.md
+│   │
+│   ├── 🌐 WebApp
+│   │   │
+│   │   ├── 📘 DeployManual
+│   │   │   └── README.md
+│   │   │
+│   │   ├── 💻 source
+│   │   │   │
+│   │   │   ├── 🛠️ backend
+│   │   │   │   └── README.md
+│   │   │   │
+│   │   │   ├── 🎨 frontend
+│   │   │   │   └── README.md
+│   │   │   │
+│   │   │   └── README.md
+│   │   │
+│   │   ├── 👤 UserManual
+│   │   │   └── README.md
+│   │   │
+│   │   └── README.md
+│   │
+│   └── README.md
+│
+├── 📚 Docs
+│   │
+│   ├── 📝 BRs
+│   │   └── README.md
+│   │
+│   ├── 📋 FRs
+│   │   └── README.md
+│   │
+│   ├── 🎨 GUIs
+│   │   │
+│   │   ├── ⌚ WearableApp
+│   │   │   └── README.md
+│   │   │
+│   │   ├── 🌐 WebApp
+│   │   │   └── README.md
+│   │   │
+│   │   └── README.md
+│   │
+│   ├── 🔒 NFRs
+│   │   └── README.md
+│   │
+│   ├── 👥 UHS
+│   │   └── README.md
+│   │
+│   ├── 📄 URs
+│   │   └── README.md
+│   │
+│   └── README.md
+│
+└── 📖 README.md
 ```
+
 # 👥 Equipo de Desarrollo
 
 | 👨‍💻 Integrante | 🔗 GitHub | 🛠️ Rol | 📝 Observaciones | Aprobado |
